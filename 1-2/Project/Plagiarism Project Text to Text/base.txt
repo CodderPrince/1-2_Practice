@@ -1,0 +1,19 @@
+Hello everyone!This is a plagiarism project.
+I compare base file to document 1.My name is Prince.
+I compare base file to document 2.My id is 12105007.
+I compare base file to document 3.My registration is 000015540.
+I compare base file to document 4.I am from Jhenaidah.
+I compare base file to document 5.I live in now Rangpur.
+Add some extra lines for document 3.
+Add some extra lines for document 4.
+Add some extra lines for document 5.
+Add some extra lines for document 5!
+Everyone need to developed this project.Just implementation some logic!
+Is this is a complex project?I think this is easy project if you understand.
+Firstly input all files in strings as line.Then send this string in a
+new function for separate all sentences in corresponding vector string arrays.
+Now use nested for loop to count and find if any similar sentences is occured
+or not?
+Then print all the similar sentences and their corresponding plagiarism.
+Finally print total plagiarism.This is mainly a average plagiarism of this project.
+Thank you!
