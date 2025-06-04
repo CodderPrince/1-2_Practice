@@ -1,0 +1,45 @@
+This sentence is not matched in base file.
+Now use nested for loop to count and find if any similar sentences is occured
+or not?
+I compare base file to document 4.I am from Jhenaidah.
+Everyone need to developed this project.Just implementation some logic!
+Add some extra lines for document 4.
+Whenever I see her, she's always smiling.
+This is the place where we first met.
+I don't know whether I should go or not.
+She reads a book while waiting for the bus.
+Unless you apologize, I won't forgive you.
+Seeing that it was late, we decided to go home.
+As soon as she finished her homework, she went to bed.
+Even if it rains, we'll still go for a picnic.
+She couldn't sleep because of the noise outside.
+Finish your homework before you go out to play.
+Besides studying, she also enjoys painting.
+She wanted to go out, but it started raining heavily.
+Even if it rains, we'll still go for a picnic.
+Even though it was cold, she wore a dress.
+Everyone attended the party except for John.
+He loves cooking, for it relaxes him.
+If you don't study, you won't pass the exam.
+Take an umbrella in case it rains.
+She saved her money lest she be without in an emergency.
+Now that she's here, we can start the meeting.
+Once he finishes his work, he'll join us for lunch.
+I'll go to the party only if you come with me.
+You can come, provided that you behave yourself.
+Since it's raining, we'll stay indoors.
+It was getting late, so I decided to leave.
+She worked hard so that she could achieve her goals.
+Supposing it rains, what will we do?
+She is taller than her sister.
+He told me that he would come to the party.
+We'll have dessert, then we can go for a walk.
+She'll wait till you finish your work.
+When the bell rang, the students left the classroom.
+Whenever I see her, she's always smiling.
+This is the place where we first met.
+I don't know whether I should go or not.
+She reads a book while waiting for the bus.
+Unless you apologize, I won't forgive you.
+Seeing that it was late, we decided to go home.
+As soon as she finis
