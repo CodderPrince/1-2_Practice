@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plagiarism Checker</title>
+    <style>
+        body {
+            background-color: #dbedd0;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .center {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .blue-text {
+            color: #0056b3;
+        }
+
+        .green-text {
+            color: #008000;
+        }
+
+        .red-text {
+            color: #ff0000;
+        }
+
+        .box {
+            background-color: #a6e3fa;
+            border: 1px solid #0d00ff;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 10px auto;
+            width: 80%;
+            max-width: 600px;
+        }
+
+        input[type="file"] {
+            display: block;
+            margin: 10px auto;
+        }
+
+        input[type="submit"] {
+            font-size: 24px;
+            font-weight: bold;
+            color: #fff;
+            background-color: #4caf50;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        h1 {
+            margin-top: 0;
+            font-size: 24px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="center">
+        <h1 class="blue-text">Plagiarism Checker Project</h1>
+        <h2 class="green-text">Developed by Prince</h2>
+        <h2 class="red-text">ID: 12105007</h2>
+    </div>
+    <form action="/result" method="post" enctype="multipart/form-data">
+        <div class="center">
+            <div class="box">
+                <label for="base">
+                    <h1>Select base file:</h1>
+                </label>
+                <input type="file" id="base" name="base">
+            </div>
+            <div class="box">
+                <label for="document1">
+                    <h1>Select text file 1:</h1>
+                </label>
+                <input type="file" id="document1" name="document1">
+            </div>
+            <div class="box">
+                <label for="document2">
+                    <h1>Select text file 2:</h1>
+                </label>
+                <input type="file" id="document2" name="document2">
+            </div>
+            <div class="box">
+                <label for="document3">
+                    <h1>Select text file 3:</h1>
+                </label>
+                <input type="file" id="document3" name="document3">
+            </div>
+            <div class="box">
+                <label for="document4">
+                    <h1>Select text file 4:</h1>
+                </label>
+                <input type="file" id="document4" name="document4">
+            </div>
+            <div class="box">
+                <label for="document5">
+                    <h1>Select text file 5:</h1>
+                </label>
+                <input type="file" id="document5" name="document5">
+            </div>
+            <input type="submit" value="Check Plagiarism">
+        </div>
+    </form>
+</body>
+
+</html>
