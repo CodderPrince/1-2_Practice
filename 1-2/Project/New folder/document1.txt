@@ -1,0 +1,38 @@
+
+prince and
+
+hello prince.
+ shithi are friends!prince and
+ This sentence is not matched in base file.
+I compare base file to document 5.I live in now Rangpur.
+Then print all the similar sentences and their corresponding plagiarism.
+Finally print total plagiarism.This is mainly a average plagiarism of this project.
+Add some extra lines for document 5.
+Add some extra lines for document 5!
+Thank you!
+prince and
+
+prince and
+hello prince.
+ shithi are friends!
+ He worked hard, yet he didn't achieve his goal.
+She neither confirmed nor denied the allegations.
+He loves cooking, for it relaxes him.
+She danced as if nobody was watching.
+He didn't study, nor did he pass the exam.
+We had dinner after the movie ended.
+Although it was raining, we decided to go for a walk.
+She reads a book while waiting for the bus.
+I couldn't sleep because of the noise outside.
+Since it was late, we decided to call it a night.
+You won't succeed unless you work hard.
+If it rains, we'll stay indoors.
+We'll go for a picnic when the weather improves.
+This is the place where we first met.
+I don't know whether I should go or not.
+I watched TV while waiting for the food to be ready.
+Unless you apologize, I won't forgive you.
+Everyone attended the party except for John.
+She saved her money lest she be without in an emergency.
+Once he finishes his work, he'll join us for lunch.
+Supposing it rains, what will we do?
