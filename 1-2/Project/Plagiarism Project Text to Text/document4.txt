@@ -1,0 +1,6 @@
+This sentence is not matched in base file.
+Now use nested for loop to count and find if any similar sentences is occured
+or not?
+I compare base file to document 4.I am from Jhenaidah.
+Everyone need to developed this project.Just implementation some logic!
+Add some extra lines for document 4.
