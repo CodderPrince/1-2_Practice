@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plagiarism Result</title>
+    <style>
+        /* CSS to color text */
+        h1 {
+            color: blue;
+        }
+
+        a {
+            color: purple;
+            font-size: 28px;
+        }
+
+        /* CSS to make text bold */
+        .bold {
+            font-weight: bold;
+        }
+
+        /* CSS to style the result box */
+        .result-box {
+            border: 3px solid #ff6f00;
+            padding: 50px;
+            margin: 20px auto;
+            width: 8000% auto;
+            max-width: 12000px auto;
+            font-size: 28px;
+            background-color: #ecf6d0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Plagiarism Result</h1>
+    <div class="result-box">
+        <!-- Use the "bold" class to make text bold -->
+        <pre><span class="bold">{{ output }}</span></pre>
+    </div>
+    <a href="/"><b>Back to Home</b></a>
+</body>
+
+</html>
