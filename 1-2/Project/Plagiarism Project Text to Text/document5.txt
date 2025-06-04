@@ -1,0 +1,7 @@
+This sentence is not matched in base file.
+I compare base file to document 5.I live in now Rangpur.
+Then print all the similar sentences and their corresponding plagiarism.
+Finally print total plagiarism.This is mainly a average plagiarism of this project.
+Add some extra lines for document 5.
+Add some extra lines for document 5!
+Thank you!
