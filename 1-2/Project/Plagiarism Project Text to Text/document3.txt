@@ -1,0 +1,5 @@
+This sentence is not matched in base file.
+Firstly input all files in strings as line.Then send this string in a
+new function for separate all sentences in corresponding vector string arrays.
+I compare base file to document 3.My registration is 000015540.
+Add some extra lines for document 3.
